@@ -1,11 +1,8 @@
 Ingredients:
 - 2 T Paprika
 - 1 T Salt
-<<<<<<< HEAD
 - 1/4 Small Onion (about 1/4 Cup finely chopped)
-=======
 - 2 T Onion powder
->>>>>>> master
 - 1 T Black pepper
 - 2.5 t Cayenne pepper
 
